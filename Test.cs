@@ -11,7 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("HelloWord");
-            Console.WriteLine("CrveniKrstSise");
+            Console.WriteLine("Marokai napusti");
         }
     }
 }
